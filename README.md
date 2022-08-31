@@ -1,1 +1,1 @@
-Hi I made this project during the 7 Days Free Bootcamp, conducted by SHAPEAI
+Hi, this project was my introduction to Machine Learning wherein i performed basic data analytics and predictions.
